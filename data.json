@@ -1,0 +1,27 @@
+{
+  "title": "Rosharan Center Visitor Patterns",
+  "description": "Monthly visitor counts for four Rosharan center exhibits.",
+  "months": [
+    "Jan", "Feb", "Mar", "Apr",
+    "May", "Jun", "Jul", "Aug",
+    "Sep", "Oct", "Nov", "Dec"
+  ],
+  "exhibits": [
+    {
+      "name": "Shattered Plains Exploration",
+      "visitors": [420, 390, 450, 470, 510, 560, 610, 590, 520, 480, 430, 500]
+    },
+    {
+      "name": "Ocean Discovery",
+      "visitors": [500, 480, 510, 530, 570, 620, 700, 680, 590, 550, 510, 600]
+    },
+    {
+      "name": "Fabrial Zone",
+      "visitors": [310, 330, 350, 390, 430, 510, 560, 540, 450, 410, 370, 460]
+    },
+    {
+      "name": "Parshendi Hall",
+      "visitors": [600, 570, 590, 610, 650, 710, 780, 760, 680, 630, 590, 690]
+    }
+  ]
+}
